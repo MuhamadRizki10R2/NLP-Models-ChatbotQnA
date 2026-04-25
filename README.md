@@ -77,3 +77,9 @@ Project ini menampilkan:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn wordcloud
+
+## 📂 Struktur Project
+📁 Chatbot-Stella
+ ┣ 📄 chatbot_stella.py
+ ┣ 📄 dataset_Qa.csv
+ ┣ 📄 README.md
